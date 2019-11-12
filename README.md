@@ -20,7 +20,12 @@ https://drive.google.com/drive/folders/1r8ADmpFq9AtU7evFow3hYvqC6AeS0tir?usp=sha
 
 
 ## Getting Started
-Begin by cloning this repo. Basic branch set up is as follows.
+Begin by cloning this repo. 
+You'll want to follow the IntelliJ setup tutorial provided by the tools to get started, as you'll need Maven to build the project.
+
+This mod requires STS as a dependency, if you don't have one, grab the .jar file from your copy of the game and place it inside of /lib
+
+Basic branch set up is as follows.
 
 ### Master & Develop
 
